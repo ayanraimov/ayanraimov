@@ -38,13 +38,27 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en FP Dual Intensiva, esp
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   
-![GitHub Stats](https://readme-stats-odllpsfah-ayans-projects-ee55f8ee.vercel.app/api?username=ayanraimov&show_icons=true&theme=radical&locale=es)
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ayanraimov&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+</td>
 
-![Top Langs](https://readme-stats-odllpsfah-ayans-projects-ee55f8ee.vercel.app/api/top-langs/?username=ayanraimov&layout=compact&theme=radical&locale=es)
+<td width="50%" align="center">
 
-</div>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayanraimov&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+</p>        
+<!--- stats (end) -->
+
 
 ---
 
