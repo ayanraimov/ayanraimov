@@ -25,7 +25,7 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) en FP Dual Intensiva, especia
 <tr border="none">
   <td width="33%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ayanraimov&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ayanraimov&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <br></br>
 </td>
 <td width="33%" align="center">
@@ -48,6 +48,9 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) en FP Dual Intensiva, especia
 ### 💰 [Finance Manager App](https://github.com/ayanraimov/financeflow-api)
 Aplicación web de gestión financiera personal con autenticación JWT, módulos de usuarios y transacciones.  
 **Stack:** TypeScript, NestJS, Prisma, PostgreSQL, Docker
+### 🕵️‍♂️ [The Backend Hunter Intelligence] (https://github.com/ayanraimov/backend-hunter)
+Herramienta CLI y API para detectar Stack Tecnológico y conformidad legal (FCT) de empresas.
+**Stack:** Python 3.13+, FastAPI, Poetry, Pandas, Docker
 
 ---
 
