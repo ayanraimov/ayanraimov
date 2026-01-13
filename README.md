@@ -1,16 +1,16 @@
 <div align="center">
   
-# 👋 Hola, soy Ayan
+# 👋 Hi, I'm Ayan
 
-**Estudiante DAW | Backend Developer Junior**  
-📍 Palma de Mallorca | 🎯 Buscando prácticas en desarrollo web
+**Web Application Development Student | Junior Backend Developer**  
+📍 Palma de Mallorca | 🎯 Looking for web development internships
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
-Estudiante de Desarrollo de Aplicaciones Web (DAW) en FP Dual Intensiva, especializado en backend development. Apasionado por crear aplicaciones robustas y escalables. Busco prácticas para aplicar mis conocimientos en un entorno profesional y seguir creciendo como desarrollador.<br><br>💻 Trabajando en proyectos personales con Python, FastAPI y Pandas<br>🎓 Formación: Java, Python, SQL, APIs REST<br>💪 Disciplinado y comprometido<br>📚 Siempre aprendiendo y mejorando
+## 🚀 About Me
+Web Application Development (DAW) student in Intensive Dual Vocational Training, specializing in backend development. Passionate about building robust and scalable applications. Seeking internships to apply my knowledge in a professional environment and continue growing as a developer.<br><br>💻 Working on personal projects with Python, FastAPI, and Pandas<br>🎓 Training: Java, Python, SQL, REST APIs<br>💪 Disciplined and committed<br>📚 Always learning and improving
 
 
 
@@ -44,20 +44,20 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) en FP Dual Intensiva, especia
 
 ---
 
-## 🔥 Proyectos Destacados
+## 🔥 Featured Projects
 ### 🕵️‍♂️ [The Backend Hunter Intelligence](https://github.com/ayanraimov/backend-hunter)
-Herramienta CLI y API para detectar Stack Tecnológico y conformidad legal (FCT) de empresas.
+CLI tool and API for detecting Tech Stack and legal compliance (FCT) of companies.
 **Stack:** Python 3.13+, FastAPI, Poetry, Pandas, Docker
 
 ---
 
-## 🌐 Contacto:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ayanreyhanov/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayanrr0692@gmail.com) 
 
 ---
 
 <div align="center">
   
-⭐️ Si te gusta mi trabajo, ¡dale una estrella a mis repos!
+⭐️ If you like my work, give my repos a star!
 
 </div>
